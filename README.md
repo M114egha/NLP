@@ -1,1 +1,1 @@
-"NLP Technologies"
+NLP TECHNOLOGIES
